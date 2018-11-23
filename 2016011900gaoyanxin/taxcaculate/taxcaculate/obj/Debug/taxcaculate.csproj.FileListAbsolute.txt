@@ -1,0 +1,25 @@
+c:\users\administrator\documents\visual studio 2013\Projects\taxcaculate\taxcaculate\bin\Debug\taxcaculate.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\taxcaculate\taxcaculate\bin\Debug\taxcaculate.exe
+c:\users\administrator\documents\visual studio 2013\Projects\taxcaculate\taxcaculate\bin\Debug\taxcaculate.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\taxcaculate\taxcaculate\obj\Debug\taxcaculate.Form_tax.resources
+c:\users\administrator\documents\visual studio 2013\Projects\taxcaculate\taxcaculate\obj\Debug\taxcaculate.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\taxcaculate\taxcaculate\obj\Debug\taxcaculate.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\taxcaculate\taxcaculate\obj\Debug\taxcaculate.exe
+c:\users\administrator\documents\visual studio 2013\Projects\taxcaculate\taxcaculate\obj\Debug\taxcaculate.pdb
+F:\c#\taxcaculate\taxcaculate\bin\Debug\taxcaculate.exe.config
+F:\c#\taxcaculate\taxcaculate\obj\Debug\taxcaculate.exe
+F:\c#\taxcaculate\taxcaculate\obj\Debug\taxcaculate.pdb
+F:\c#\taxcaculate\taxcaculate\bin\Debug\taxcaculate.exe
+F:\c#\taxcaculate\taxcaculate\bin\Debug\taxcaculate.pdb
+F:\c#\taxcaculate\taxcaculate\obj\Debug\taxcaculate.Form_tax.resources
+F:\c#\taxcaculate\taxcaculate\obj\Debug\taxcaculate.Properties.Resources.resources
+F:\c#\taxcaculate\taxcaculate\obj\Debug\taxcaculate.csproj.GenerateResource.Cache
+G:\c#\taxcaculate\taxcaculate\bin\Debug\taxcaculate.exe.config
+G:\c#\taxcaculate\taxcaculate\obj\Debug\taxcaculate.exe
+G:\c#\taxcaculate\taxcaculate\obj\Debug\taxcaculate.pdb
+G:\c#\taxcaculate\taxcaculate\bin\Debug\taxcaculate.exe
+G:\c#\taxcaculate\taxcaculate\bin\Debug\taxcaculate.pdb
+G:\c#\taxcaculate\taxcaculate\obj\Debug\taxcaculate.Form_tax.resources
+G:\c#\taxcaculate\taxcaculate\obj\Debug\taxcaculate.Properties.Resources.resources
+G:\c#\taxcaculate\taxcaculate\obj\Debug\taxcaculate.csproj.GenerateResource.Cache
+F:\c#\taxcaculate\taxcaculate\obj\Debug\taxcaculate.csprojResolveAssemblyReference.cache
