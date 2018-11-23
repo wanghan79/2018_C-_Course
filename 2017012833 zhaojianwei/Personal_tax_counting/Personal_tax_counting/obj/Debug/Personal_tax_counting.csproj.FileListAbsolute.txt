@@ -1,0 +1,19 @@
+E:\我的编程vc\C#.NET Project\Personal_tax_counting\Personal_tax_counting\bin\Debug\Personal_tax_counting.exe.config
+E:\我的编程vc\C#.NET Project\Personal_tax_counting\Personal_tax_counting\bin\Debug\Personal_tax_counting.exe
+E:\我的编程vc\C#.NET Project\Personal_tax_counting\Personal_tax_counting\bin\Debug\Personal_tax_counting.pdb
+E:\我的编程vc\C#.NET Project\Personal_tax_counting\Personal_tax_counting\obj\Debug\Personal_tax_counting.csprojAssemblyReference.cache
+E:\我的编程vc\C#.NET Project\Personal_tax_counting\Personal_tax_counting\obj\Debug\Personal_tax_counting.Properties.Resources.resources
+E:\我的编程vc\C#.NET Project\Personal_tax_counting\Personal_tax_counting\obj\Debug\Personal_tax_counting.csproj.GenerateResource.cache
+E:\我的编程vc\C#.NET Project\Personal_tax_counting\Personal_tax_counting\obj\Debug\Personal_tax_counting.csproj.CoreCompileInputs.cache
+E:\我的编程vc\C#.NET Project\Personal_tax_counting\Personal_tax_counting\obj\Debug\Personal_tax_counting.exe
+E:\我的编程vc\C#.NET Project\Personal_tax_counting\Personal_tax_counting\obj\Debug\Personal_tax_counting.pdb
+E:\我的编程vc\C#.NET Project\Personal_tax_counting\Personal_tax_counting\obj\Debug\Personal_tax_counting.Form_calculcator.resources
+D:\BaiduNetdiskDownload\Personal_tax_counting\Personal_tax_counting\bin\Debug\Personal_tax_counting.exe.config
+D:\BaiduNetdiskDownload\Personal_tax_counting\Personal_tax_counting\obj\Debug\Personal_tax_counting.exe
+D:\BaiduNetdiskDownload\Personal_tax_counting\Personal_tax_counting\obj\Debug\Personal_tax_counting.pdb
+D:\BaiduNetdiskDownload\Personal_tax_counting\Personal_tax_counting\bin\Debug\Personal_tax_counting.exe
+D:\BaiduNetdiskDownload\Personal_tax_counting\Personal_tax_counting\bin\Debug\Personal_tax_counting.pdb
+D:\BaiduNetdiskDownload\Personal_tax_counting\Personal_tax_counting\obj\Debug\Personal_tax_counting.csprojResolveAssemblyReference.cache
+D:\BaiduNetdiskDownload\Personal_tax_counting\Personal_tax_counting\obj\Debug\Personal_tax_counting.Form_calculcator.resources
+D:\BaiduNetdiskDownload\Personal_tax_counting\Personal_tax_counting\obj\Debug\Personal_tax_counting.Properties.Resources.resources
+D:\BaiduNetdiskDownload\Personal_tax_counting\Personal_tax_counting\obj\Debug\Personal_tax_counting.csproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+E:\vs\personmoneytax\personmoneytax\bin\Debug\personmoneytax.exe.config
+E:\vs\personmoneytax\personmoneytax\bin\Debug\personmoneytax.exe
+E:\vs\personmoneytax\personmoneytax\bin\Debug\personmoneytax.pdb
+E:\vs\personmoneytax\personmoneytax\obj\Debug\personmoneytax.csprojAssemblyReference.cache
+E:\vs\personmoneytax\personmoneytax\obj\Debug\personmoneytax.Properties.Resources.resources
+E:\vs\personmoneytax\personmoneytax\obj\Debug\personmoneytax.csproj.GenerateResource.cache
+E:\vs\personmoneytax\personmoneytax\obj\Debug\personmoneytax.csproj.CoreCompileInputs.cache
+E:\vs\personmoneytax\personmoneytax\obj\Debug\personmoneytax.exe
+E:\vs\personmoneytax\personmoneytax\obj\Debug\personmoneytax.pdb
+E:\vs\personmoneytax\personmoneytax\obj\Debug\personmoneytax.Form_Taxcalculator.resources
