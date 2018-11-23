@@ -1,0 +1,10 @@
+C:\Users\19383\Desktop\WindowsFormsApp1_\WindowsFormsApp1\obj\Debug\PersonalTaxCalculatorApp.csprojResolveAssemblyReference.cache
+C:\Users\19383\Desktop\WindowsFormsApp1_\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PersonalTaxCalculator.resources
+C:\Users\19383\Desktop\WindowsFormsApp1_\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\19383\Desktop\WindowsFormsApp1_\WindowsFormsApp1\obj\Debug\PersonalTaxCalculatorApp.csproj.GenerateResource.Cache
+C:\Users\19383\Desktop\WindowsFormsApp1_\WindowsFormsApp1\obj\Debug\PersonalTaxCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\19383\Desktop\WindowsFormsApp1_\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\19383\Desktop\WindowsFormsApp1_\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\19383\Desktop\WindowsFormsApp1_\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\19383\Desktop\WindowsFormsApp1_\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\19383\Desktop\WindowsFormsApp1_\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
