@@ -1,0 +1,11 @@
+F:\C#\WorkSet\Personal_income_without_tax_calculator\bin\Debug\Personal_income_without_tax_calculator.exe.config
+F:\C#\WorkSet\Personal_income_without_tax_calculator\bin\Debug\Personal_income_without_tax_calculator.exe
+F:\C#\WorkSet\Personal_income_without_tax_calculator\bin\Debug\Personal_income_without_tax_calculator.pdb
+F:\C#\WorkSet\Personal_income_without_tax_calculator\obj\Debug\Personal_income_without_tax_calculator.Properties.Resources.resources
+F:\C#\WorkSet\Personal_income_without_tax_calculator\obj\Debug\Personal_income_without_tax_calculator.csproj.GenerateResource.Cache
+F:\C#\WorkSet\Personal_income_without_tax_calculator\obj\Debug\Personal_income_without_tax_calculator.exe
+F:\C#\WorkSet\Personal_income_without_tax_calculator\obj\Debug\Personal_income_without_tax_calculator.pdb
+F:\C#\WorkSet\Personal_income_without_tax_calculator\obj\Debug\Personal_income_without_tax_calculator.csprojResolveAssemblyReference.cache
+G:\C#\WorkSet\Personal_income_without_tax_calculator\bin\Debug\Personal_income_without_tax_calculator.exe.config
+G:\C#\WorkSet\Personal_income_without_tax_calculator\obj\Debug\Personal_income_without_tax_calculator.exe
+G:\C#\WorkSet\Personal_income_without_tax_calculator\obj\Debug\Personal_income_without_tax_calculator.pdb
