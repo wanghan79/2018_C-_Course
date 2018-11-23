@@ -1,9 +1,0 @@
-E:\chengl\C#\PersonTaxCalculate\PersonTaxCalculate\bin\Debug\PersonTaxCalculate.exe.config
-E:\chengl\C#\PersonTaxCalculate\PersonTaxCalculate\bin\Debug\PersonTaxCalculate.exe
-E:\chengl\C#\PersonTaxCalculate\PersonTaxCalculate\bin\Debug\PersonTaxCalculate.pdb
-E:\chengl\C#\PersonTaxCalculate\PersonTaxCalculate\obj\Debug\PersonTaxCalculate.form_Person_Tax_Calculate.resources
-E:\chengl\C#\PersonTaxCalculate\PersonTaxCalculate\obj\Debug\PersonTaxCalculate.Properties.Resources.resources
-E:\chengl\C#\PersonTaxCalculate\PersonTaxCalculate\obj\Debug\MyFoemDesign.csproj.GenerateResource.Cache
-E:\chengl\C#\PersonTaxCalculate\PersonTaxCalculate\obj\Debug\PersonTaxCalculate.exe
-E:\chengl\C#\PersonTaxCalculate\PersonTaxCalculate\obj\Debug\PersonTaxCalculate.pdb
-E:\chengl\C#\PersonTaxCalculate\PersonTaxCalculate\obj\Debug\MyFoemDesign.csprojResolveAssemblyReference.cache
