@@ -1,0 +1,18 @@
+c:\users\administrator\documents\visual studio 2013\Projects\person_tax_cal\person_tax_cal\bin\Debug\person_tax_cal.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\person_tax_cal\person_tax_cal\bin\Debug\person_tax_cal.exe
+c:\users\administrator\documents\visual studio 2013\Projects\person_tax_cal\person_tax_cal\bin\Debug\person_tax_cal.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\person_tax_cal\person_tax_cal\obj\Debug\person_tax_cal.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\person_tax_cal\person_tax_cal\obj\Debug\person_tax_cal.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\person_tax_cal\person_tax_cal\obj\Debug\person_tax_cal.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\person_tax_cal\person_tax_cal\obj\Debug\person_tax_cal.exe
+c:\users\administrator\documents\visual studio 2013\Projects\person_tax_cal\person_tax_cal\obj\Debug\person_tax_cal.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\person_tax_cal\person_tax_cal\obj\Debug\person_tax_cal.person_tax_calculate.resources
+F:\person_tax_cal\person_tax_cal\bin\Debug\person_tax_cal.exe.config
+F:\person_tax_cal\person_tax_cal\obj\Debug\person_tax_cal.exe
+F:\person_tax_cal\person_tax_cal\obj\Debug\person_tax_cal.pdb
+F:\person_tax_cal\person_tax_cal\obj\Debug\person_tax_cal.csprojResolveAssemblyReference.cache
+F:\person_tax_cal\person_tax_cal\obj\Debug\person_tax_cal.person_tax_calculate.resources
+F:\person_tax_cal\person_tax_cal\obj\Debug\person_tax_cal.Properties.Resources.resources
+F:\person_tax_cal\person_tax_cal\obj\Debug\person_tax_cal.csproj.GenerateResource.Cache
+F:\person_tax_cal\person_tax_cal\bin\Debug\person_tax_cal.exe
+F:\person_tax_cal\person_tax_cal\bin\Debug\person_tax_cal.pdb
