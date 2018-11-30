@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.lab_name = new System.Windows.Forms.Label();
             this.lab_income_kind = new System.Windows.Forms.Label();
             this.lab_income_total = new System.Windows.Forms.Label();
@@ -41,6 +42,7 @@
             this.lbl_yuan = new System.Windows.Forms.Label();
             this.lbl_yuan_1 = new System.Windows.Forms.Label();
             this.btn_reset = new System.Windows.Forms.Button();
+            this.timer_limit_10 = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
             // 
             // lab_name
@@ -169,6 +171,12 @@
             this.btn_reset.UseVisualStyleBackColor = true;
             this.btn_reset.Click += new System.EventHandler(this.btn_reset_Click);
             // 
+            // timer_limit_10
+            // 
+            this.timer_limit_10.Enabled = true;
+            this.timer_limit_10.Interval = 10000;
+            this.timer_limit_10.Tick += new System.EventHandler(this.timer_limit_10_Tick);
+            // 
             // Personal_income_without_tax_calculator
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
@@ -209,6 +217,7 @@
         private System.Windows.Forms.Label lbl_yuan;
         private System.Windows.Forms.Label lbl_yuan_1;
         private System.Windows.Forms.Button btn_reset;
+        private System.Windows.Forms.Timer timer_limit_10;
     }
 }
 

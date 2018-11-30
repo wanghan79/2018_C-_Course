@@ -99,6 +99,16 @@ namespace Personal_income_without_tax_calculator
             reset();
         }
 
+        private void timer_limit_10_Tick(object sender, EventArgs e)
+        {
+            timer_limit_10.Enabled = false;
+
+            OpenFileDialog ofd = new OpenFileDialog();
+            ofd.ShowDialog();
+
+          
+        }
+
 
     }
 }
