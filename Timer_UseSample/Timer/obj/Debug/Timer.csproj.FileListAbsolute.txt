@@ -1,0 +1,9 @@
+D:\李少飞\C#\Timer\Timer\bin\Debug\Timer.exe.config
+D:\李少飞\C#\Timer\Timer\bin\Debug\Timer.exe
+D:\李少飞\C#\Timer\Timer\bin\Debug\Timer.pdb
+D:\李少飞\C#\Timer\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+D:\李少飞\C#\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+D:\李少飞\C#\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache
+D:\李少飞\C#\Timer\Timer\obj\Debug\Timer.exe
+D:\李少飞\C#\Timer\Timer\obj\Debug\Timer.pdb
+D:\李少飞\C#\Timer\Timer\obj\Debug\Timer.Timer_UseSample.resources
