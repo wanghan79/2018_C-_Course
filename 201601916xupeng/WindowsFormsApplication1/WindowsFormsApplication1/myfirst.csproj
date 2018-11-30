@@ -44,16 +44,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Personal income tax calculator.cs">
+    <Compile Include="jisaunqi.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Personal income tax calculator.Designer.cs">
-      <DependentUpon>Personal income tax calculator.cs</DependentUpon>
+    <Compile Include="jisaunqi.Designer.cs">
+      <DependentUpon>jisaunqi.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Personal income tax calculator.resx">
-      <DependentUpon>Personal income tax calculator.cs</DependentUpon>
+    <EmbeddedResource Include="jisaunqi.resx">
+      <DependentUpon>jisaunqi.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
