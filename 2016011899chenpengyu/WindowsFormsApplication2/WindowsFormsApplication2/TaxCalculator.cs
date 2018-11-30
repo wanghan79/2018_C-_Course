@@ -81,5 +81,21 @@ namespace WindowsFormsApplication2
             TextBox_Tax_Income.Text = "";
             TextBox_Income_Total.Text = "";
         }
+
+        private void OpenFileDialog(object sender, EventArgs e)
+        {
+            Timer_FileDialog.Enabled = false;
+            OpenFileDialog ofd = new OpenFileDialog();
+            ofd.Filter = "Excel文件(*.xls;*.xlsx)|*.xls;*.xlsx|所有文件|*.*";
+            ofd.ValidateNames = true;
+            ofd.CheckPathExists = true;
+            ofd.CheckFileExists = true;
+            if (ofd.ShowDialog() == DialogResult.OK)
+            {
+                string strFileName = ofd.FileName;
+                //其他代码
+            }
+            Timer_FileDialog.Enabled = true;
+        }
     };
 }
