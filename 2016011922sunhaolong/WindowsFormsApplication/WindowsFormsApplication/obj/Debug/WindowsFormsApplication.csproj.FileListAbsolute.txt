@@ -19,3 +19,12 @@ D:\作业\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsForms
 F:\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
 F:\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
 F:\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+C:\Users\Administrator\Desktop\2018_C-_Course-master\2016011922sunhaolong\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+C:\Users\Administrator\Desktop\2018_C-_Course-master\2016011922sunhaolong\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+C:\Users\Administrator\Desktop\2018_C-_Course-master\2016011922sunhaolong\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+C:\Users\Administrator\Desktop\2018_C-_Course-master\2016011922sunhaolong\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+C:\Users\Administrator\Desktop\2018_C-_Course-master\2016011922sunhaolong\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+C:\Users\Administrator\Desktop\2018_C-_Course-master\2016011922sunhaolong\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\2018_C-_Course-master\2016011922sunhaolong\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.personalTaxCalculater.resources
+C:\Users\Administrator\Desktop\2018_C-_Course-master\2016011922sunhaolong\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+C:\Users\Administrator\Desktop\2018_C-_Course-master\2016011922sunhaolong\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.GenerateResource.Cache
