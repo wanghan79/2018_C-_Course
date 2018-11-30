@@ -32,6 +32,7 @@ namespace WindowsFormsApplication
         public personalTaxCalculater()
         {
             InitializeComponent();
+            timer_alert.Start();
         }
         private void personalTaxCalculater_Load(object sender, EventArgs e)
         {
@@ -78,6 +79,18 @@ namespace WindowsFormsApplication
         private void personalTaxCalculater_Load()
         {
 
+        }
+
+        private void timer_alert_Tick(object sender, EventArgs e)
+        {
+            
+            int flag = 0;
+            if (flag == 0)
+            {
+                MessageBox.Show("30秒");
+                flag = 1;
+                timer_alert.Stop();
+            }
         }
     }
 }

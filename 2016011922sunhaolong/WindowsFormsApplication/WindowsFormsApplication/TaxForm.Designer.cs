@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.header = new System.Windows.Forms.Label();
             this.lab_type = new System.Windows.Forms.Label();
             this.com_chooseType = new System.Windows.Forms.ComboBox();
@@ -42,6 +43,7 @@
             this.lab_taxYuan = new System.Windows.Forms.Label();
             this.lab_withoutYuan = new System.Windows.Forms.Label();
             this.lab_grossYuan = new System.Windows.Forms.Label();
+            this.timer_alert = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
             // 
             // header
@@ -51,7 +53,7 @@
             this.header.Location = new System.Drawing.Point(159, 31);
             this.header.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.header.Name = "header";
-            this.header.Size = new System.Drawing.Size(372, 44);
+            this.header.Size = new System.Drawing.Size(295, 35);
             this.header.TabIndex = 0;
             this.header.Text = "个人所得税计算器";
             this.header.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -64,7 +66,7 @@
             this.lab_type.Location = new System.Drawing.Point(95, 119);
             this.lab_type.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lab_type.Name = "lab_type";
-            this.lab_type.Size = new System.Drawing.Size(89, 20);
+            this.lab_type.Size = new System.Drawing.Size(72, 16);
             this.lab_type.TabIndex = 1;
             this.lab_type.Text = "收入类型";
             // 
@@ -81,7 +83,7 @@
             this.com_chooseType.Location = new System.Drawing.Point(201, 116);
             this.com_chooseType.Margin = new System.Windows.Forms.Padding(4);
             this.com_chooseType.Name = "com_chooseType";
-            this.com_chooseType.Size = new System.Drawing.Size(239, 28);
+            this.com_chooseType.Size = new System.Drawing.Size(239, 24);
             this.com_chooseType.TabIndex = 2;
             this.com_chooseType.SelectedIndexChanged += new System.EventHandler(this.com_chooseType_SelectedIndexChanged);
             // 
@@ -92,7 +94,7 @@
             this.lab_gross.Location = new System.Drawing.Point(95, 184);
             this.lab_gross.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lab_gross.Name = "lab_gross";
-            this.lab_gross.Size = new System.Drawing.Size(89, 20);
+            this.lab_gross.Size = new System.Drawing.Size(72, 16);
             this.lab_gross.TabIndex = 3;
             this.lab_gross.Text = "收入总额";
             // 
@@ -102,7 +104,7 @@
             this.textBox_gross.Location = new System.Drawing.Point(201, 181);
             this.textBox_gross.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.textBox_gross.Name = "textBox_gross";
-            this.textBox_gross.Size = new System.Drawing.Size(239, 30);
+            this.textBox_gross.Size = new System.Drawing.Size(239, 26);
             this.textBox_gross.TabIndex = 4;
             // 
             // btn_calculater
@@ -131,7 +133,7 @@
             this.lab_tax.AutoSize = true;
             this.lab_tax.Location = new System.Drawing.Point(95, 298);
             this.lab_tax.Name = "lab_tax";
-            this.lab_tax.Size = new System.Drawing.Size(89, 20);
+            this.lab_tax.Size = new System.Drawing.Size(72, 16);
             this.lab_tax.TabIndex = 7;
             this.lab_tax.Text = "应纳税款";
             // 
@@ -142,7 +144,7 @@
             this.textBox_tax.Location = new System.Drawing.Point(201, 295);
             this.textBox_tax.Name = "textBox_tax";
             this.textBox_tax.ReadOnly = true;
-            this.textBox_tax.Size = new System.Drawing.Size(239, 30);
+            this.textBox_tax.Size = new System.Drawing.Size(239, 26);
             this.textBox_tax.TabIndex = 8;
             this.textBox_tax.TabStop = false;
             // 
@@ -151,7 +153,7 @@
             this.lab_withoutTax.AutoSize = true;
             this.lab_withoutTax.Location = new System.Drawing.Point(95, 357);
             this.lab_withoutTax.Name = "lab_withoutTax";
-            this.lab_withoutTax.Size = new System.Drawing.Size(89, 20);
+            this.lab_withoutTax.Size = new System.Drawing.Size(72, 16);
             this.lab_withoutTax.TabIndex = 9;
             this.lab_withoutTax.Text = "税后收入";
             // 
@@ -162,7 +164,7 @@
             this.textBox_withoutTax.Location = new System.Drawing.Point(201, 354);
             this.textBox_withoutTax.Name = "textBox_withoutTax";
             this.textBox_withoutTax.ReadOnly = true;
-            this.textBox_withoutTax.Size = new System.Drawing.Size(239, 30);
+            this.textBox_withoutTax.Size = new System.Drawing.Size(239, 26);
             this.textBox_withoutTax.TabIndex = 10;
             this.textBox_withoutTax.TabStop = false;
             // 
@@ -171,7 +173,7 @@
             this.lab_taxYuan.AutoSize = true;
             this.lab_taxYuan.Location = new System.Drawing.Point(446, 298);
             this.lab_taxYuan.Name = "lab_taxYuan";
-            this.lab_taxYuan.Size = new System.Drawing.Size(29, 20);
+            this.lab_taxYuan.Size = new System.Drawing.Size(24, 16);
             this.lab_taxYuan.TabIndex = 11;
             this.lab_taxYuan.Text = "元";
             this.lab_taxYuan.Click += new System.EventHandler(this.lab_taxYuan_Click);
@@ -181,7 +183,7 @@
             this.lab_withoutYuan.AutoSize = true;
             this.lab_withoutYuan.Location = new System.Drawing.Point(446, 357);
             this.lab_withoutYuan.Name = "lab_withoutYuan";
-            this.lab_withoutYuan.Size = new System.Drawing.Size(29, 20);
+            this.lab_withoutYuan.Size = new System.Drawing.Size(24, 16);
             this.lab_withoutYuan.TabIndex = 12;
             this.lab_withoutYuan.Text = "元";
             // 
@@ -190,13 +192,18 @@
             this.lab_grossYuan.AutoSize = true;
             this.lab_grossYuan.Location = new System.Drawing.Point(447, 186);
             this.lab_grossYuan.Name = "lab_grossYuan";
-            this.lab_grossYuan.Size = new System.Drawing.Size(29, 20);
+            this.lab_grossYuan.Size = new System.Drawing.Size(24, 16);
             this.lab_grossYuan.TabIndex = 13;
             this.lab_grossYuan.Text = "元";
             // 
+            // timer_alert
+            // 
+            this.timer_alert.Interval = 30000;
+            this.timer_alert.Tick += new System.EventHandler(this.timer_alert_Tick);
+            // 
             // personalTaxCalculater
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(666, 483);
             this.Controls.Add(this.lab_grossYuan);
@@ -239,6 +246,7 @@
         private System.Windows.Forms.Label lab_taxYuan;
         private System.Windows.Forms.Label lab_withoutYuan;
         private System.Windows.Forms.Label lab_grossYuan;
+        private System.Windows.Forms.Timer timer_alert;
     }
 }
 
