@@ -14,6 +14,7 @@ namespace person_tax_cal
 
     public partial class person_tax_calculate : Form
     {
+        public double currentCount = 0;
         int kind = 0;
         double[][] tax_rate = new double[4][]{new double[]{0.03,0.1,0.2,0.25,0.3,0.35,0.45},
                                               new double[]{0,0,0.05,0.1,0.2,0.3,0.35},
@@ -24,6 +25,7 @@ namespace person_tax_cal
                                      new int[] {0,0,1500,30000,60000,100000,100000000},
                                      new int[] {0,0,0,0,20000,50000,100000000}};
         double income;
+        
         double tax_demand=1000;
         double incount_after_tax=500;
         public person_tax_calculate()
@@ -32,7 +34,7 @@ namespace person_tax_cal
         }
         private void txt_incount_all_TextChanged(object sender, EventArgs e)
         {
-            income = Convert.ToDouble(txt_incount_all.Text);
+            //income = Convert.ToDouble(txt_incount_all.Text);
 
         }
 
@@ -45,11 +47,13 @@ namespace person_tax_cal
 
         private void but_calculate_Click(object sender, EventArgs e)
         {
+            
             calculate();
             show();
         }
         private void calculate()
         {
+            income = Convert.ToDouble(txt_incount_all.Text);
             int index = 0;
             for (int i = 0; i < 7;i++)
             {
@@ -65,6 +69,17 @@ namespace person_tax_cal
         {
             txt_tax_demand.Text = Convert.ToString(tax_demand);
             txt_incount_after_tax.Text = Convert.ToString(incount_after_tax);
+        }
+
+        private void time_cal_Tick(object sender, EventArgs e)
+        {
+            MessageBox.Show("过了30秒啦！");
+        }
+
+        private void but_reset_Click(object sender, EventArgs e)
+        {
+            this.time_cal.Stop();
+            this.time_cal.Start();
         }    
     }
 }

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.labTitle = new System.Windows.Forms.Label();
             this.labIncountType = new System.Windows.Forms.Label();
             this.labIncountAll = new System.Windows.Forms.Label();
@@ -43,6 +44,7 @@
             this.lab_RMB1 = new System.Windows.Forms.Label();
             this.lab_RMB2 = new System.Windows.Forms.Label();
             this.cmb_incount_type = new System.Windows.Forms.ComboBox();
+            this.time_cal = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
             // 
             // labTitle
@@ -54,7 +56,6 @@
             this.labTitle.Size = new System.Drawing.Size(161, 19);
             this.labTitle.TabIndex = 0;
             this.labTitle.Text = "个人所得税计算器";
-            
             // 
             // labIncountType
             // 
@@ -117,8 +118,9 @@
             this.but_reset.Name = "but_reset";
             this.but_reset.Size = new System.Drawing.Size(75, 23);
             this.but_reset.TabIndex = 7;
-            this.but_reset.Text = "重置";
+            this.but_reset.Text = "重新计时";
             this.but_reset.UseVisualStyleBackColor = true;
+            this.but_reset.Click += new System.EventHandler(this.but_reset_Click);
             // 
             // labTaxDemand
             // 
@@ -173,7 +175,6 @@
             this.lab_RMB2.Size = new System.Drawing.Size(21, 14);
             this.lab_RMB2.TabIndex = 13;
             this.lab_RMB2.Text = "元";
-            
             // 
             // cmb_incount_type
             // 
@@ -189,6 +190,12 @@
             this.cmb_incount_type.Size = new System.Drawing.Size(115, 20);
             this.cmb_incount_type.TabIndex = 14;
             this.cmb_incount_type.TextChanged += new System.EventHandler(this.cmb_incount_type_TextChanged);
+            // 
+            // time_cal
+            // 
+            this.time_cal.Enabled = true;
+            this.time_cal.Interval = 30000;
+            this.time_cal.Tick += new System.EventHandler(this.time_cal_Tick);
             // 
             // person_tax_calculate
             // 
@@ -234,6 +241,7 @@
         private System.Windows.Forms.Label lab_RMB1;
         private System.Windows.Forms.Label lab_RMB2;
         private System.Windows.Forms.ComboBox cmb_incount_type;
+        private System.Windows.Forms.Timer time_cal;
     }
 }
 
