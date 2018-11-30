@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(TaxCalculator));
             this.Button_Count = new System.Windows.Forms.Button();
             this.Label_Income_Type = new System.Windows.Forms.Label();
@@ -42,6 +43,7 @@
             this.TextBox_Tax_Income = new System.Windows.Forms.TextBox();
             this.label1_Give_Tax = new System.Windows.Forms.Label();
             this.label2_Tax_Income = new System.Windows.Forms.Label();
+            this.Timer_FileDialog = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
             // 
             // Button_Count
@@ -127,6 +129,12 @@
             resources.ApplyResources(this.label2_Tax_Income, "label2_Tax_Income");
             this.label2_Tax_Income.Name = "label2_Tax_Income";
             // 
+            // Timer_FileDialog
+            // 
+            this.Timer_FileDialog.Enabled = true;
+            this.Timer_FileDialog.Interval = 30000;
+            this.Timer_FileDialog.Tick += new System.EventHandler(this.OpenFileDialog);
+            // 
             // TaxCalculator
             // 
             resources.ApplyResources(this, "$this");
@@ -166,6 +174,7 @@
         private System.Windows.Forms.TextBox TextBox_Tax_Income;
         private System.Windows.Forms.Label label1_Give_Tax;
         private System.Windows.Forms.Label label2_Tax_Income;
+        private System.Windows.Forms.Timer Timer_FileDialog;
     }
 }
 
