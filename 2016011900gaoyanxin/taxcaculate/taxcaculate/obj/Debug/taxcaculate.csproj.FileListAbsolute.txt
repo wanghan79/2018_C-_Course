@@ -22,4 +22,3 @@ G:\c#\taxcaculate\taxcaculate\bin\Debug\taxcaculate.pdb
 G:\c#\taxcaculate\taxcaculate\obj\Debug\taxcaculate.Form_tax.resources
 G:\c#\taxcaculate\taxcaculate\obj\Debug\taxcaculate.Properties.Resources.resources
 G:\c#\taxcaculate\taxcaculate\obj\Debug\taxcaculate.csproj.GenerateResource.Cache
-F:\c#\taxcaculate\taxcaculate\obj\Debug\taxcaculate.csprojResolveAssemblyReference.cache

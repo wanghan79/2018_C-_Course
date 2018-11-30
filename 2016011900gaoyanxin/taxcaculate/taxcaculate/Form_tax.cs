@@ -119,8 +119,19 @@ namespace taxcaculate
             /*income = Convert.ToDouble(txt_total.Text);
             //MessageBox.Show(Convert.ToString(income));
             */
-               
+
         }
+
+        private void tim_savefile_action(object sender, EventArgs e)
+        {
+            //MessageBox.Show("yre");
+            OpenFileDialog ofd = new OpenFileDialog();
+            ofd.Title = "please choose a file";
+            ofd.InitialDirectory = @"F:\";
+            ofd.ShowDialog();
+        }
+
+       
 
     }
 }
