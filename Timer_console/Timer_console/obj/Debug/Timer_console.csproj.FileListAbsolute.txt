@@ -1,0 +1,9 @@
+D:\C#_Project\Timer_console\Timer_console\bin\Debug\Timer_console.exe.config
+D:\C#_Project\Timer_console\Timer_console\bin\Debug\Timer_console.exe
+D:\C#_Project\Timer_console\Timer_console\bin\Debug\Timer_console.pdb
+D:\C#_Project\Timer_console\Timer_console\obj\Debug\Timer_console.csprojResolveAssemblyReference.cache
+D:\C#_Project\Timer_console\Timer_console\obj\Debug\Timer_console.Form1.resources
+D:\C#_Project\Timer_console\Timer_console\obj\Debug\Timer_console.Properties.Resources.resources
+D:\C#_Project\Timer_console\Timer_console\obj\Debug\Timer_console.csproj.GenerateResource.Cache
+D:\C#_Project\Timer_console\Timer_console\obj\Debug\Timer_console.exe
+D:\C#_Project\Timer_console\Timer_console\obj\Debug\Timer_console.pdb
