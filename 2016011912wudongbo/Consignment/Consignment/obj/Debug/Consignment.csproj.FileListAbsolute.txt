@@ -1,0 +1,6 @@
+E:\wudb527\Consignment\Consignment\bin\Debug\Consignment.exe.config
+E:\wudb527\Consignment\Consignment\bin\Debug\Consignment.exe
+E:\wudb527\Consignment\Consignment\bin\Debug\Consignment.pdb
+E:\wudb527\Consignment\Consignment\obj\Debug\Consignment.csprojResolveAssemblyReference.cache
+E:\wudb527\Consignment\Consignment\obj\Debug\Consignment.exe
+E:\wudb527\Consignment\Consignment\obj\Debug\Consignment.pdb
