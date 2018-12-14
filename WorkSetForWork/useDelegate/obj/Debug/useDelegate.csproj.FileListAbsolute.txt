@@ -1,0 +1,6 @@
+F:\C#\WorkSetForWork\useDelegate\bin\Debug\useDelegate.exe.config
+F:\C#\WorkSetForWork\useDelegate\bin\Debug\useDelegate.exe
+F:\C#\WorkSetForWork\useDelegate\bin\Debug\useDelegate.pdb
+F:\C#\WorkSetForWork\useDelegate\obj\Debug\useDelegate.csprojResolveAssemblyReference.cache
+F:\C#\WorkSetForWork\useDelegate\obj\Debug\useDelegate.exe
+F:\C#\WorkSetForWork\useDelegate\obj\Debug\useDelegate.pdb
