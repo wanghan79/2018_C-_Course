@@ -1,0 +1,1 @@
+D:\李少飞\C#\DelegatesExample2\DelegatesExample2\bin\Debug\DelegatesExample2.exe.config

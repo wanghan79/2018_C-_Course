@@ -1,0 +1,6 @@
+D:\李少飞\C#\DelegatesExample2\DelegatesExample2\obj\Debug\DelegateExample2.csprojResolveAssemblyReference.cache
+D:\李少飞\C#\DelegatesExample2\DelegatesExample2\bin\Debug\DelegatesExample2.exe.config
+D:\李少飞\C#\DelegatesExample2\DelegatesExample2\bin\Debug\DelegatesExample2.exe
+D:\李少飞\C#\DelegatesExample2\DelegatesExample2\bin\Debug\DelegatesExample2.pdb
+D:\李少飞\C#\DelegatesExample2\DelegatesExample2\obj\Debug\DelegatesExample2.exe
+D:\李少飞\C#\DelegatesExample2\DelegatesExample2\obj\Debug\DelegatesExample2.pdb
