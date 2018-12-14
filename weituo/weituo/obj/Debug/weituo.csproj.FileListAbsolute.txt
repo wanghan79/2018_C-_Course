@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\weituo\weituo\bin\Debug\weituo.exe.config
+C:\Users\Administrator\Desktop\weituo\weituo\obj\Debug\weituo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\weituo\weituo\bin\Debug\weituo.exe
+C:\Users\Administrator\Desktop\weituo\weituo\bin\Debug\weituo.pdb
+C:\Users\Administrator\Desktop\weituo\weituo\obj\Debug\weituo.exe
+C:\Users\Administrator\Desktop\weituo\weituo\obj\Debug\weituo.pdb
