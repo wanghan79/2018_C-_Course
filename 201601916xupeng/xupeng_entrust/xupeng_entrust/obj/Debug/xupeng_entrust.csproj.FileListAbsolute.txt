@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2013\Projects\xupeng_entrust\xupeng_entrust\bin\Debug\xupeng_entrust.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\xupeng_entrust\xupeng_entrust\bin\Debug\xupeng_entrust.exe
+c:\users\administrator\documents\visual studio 2013\Projects\xupeng_entrust\xupeng_entrust\bin\Debug\xupeng_entrust.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\xupeng_entrust\xupeng_entrust\obj\Debug\xupeng_entrust.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\xupeng_entrust\xupeng_entrust\obj\Debug\xupeng_entrust.exe
+c:\users\administrator\documents\visual studio 2013\Projects\xupeng_entrust\xupeng_entrust\obj\Debug\xupeng_entrust.pdb
