@@ -1,0 +1,7 @@
+E:\我的编程vc\C#.NET Project\Delegate_Example2\Delegate_Example2\bin\Debug\Delegate_Example2.exe.config
+E:\我的编程vc\C#.NET Project\Delegate_Example2\Delegate_Example2\bin\Debug\Delegate_Example2.exe
+E:\我的编程vc\C#.NET Project\Delegate_Example2\Delegate_Example2\bin\Debug\Delegate_Example2.pdb
+E:\我的编程vc\C#.NET Project\Delegate_Example2\Delegate_Example2\obj\Debug\Delegate_Example2.csprojAssemblyReference.cache
+E:\我的编程vc\C#.NET Project\Delegate_Example2\Delegate_Example2\obj\Debug\Delegate_Example2.csproj.CoreCompileInputs.cache
+E:\我的编程vc\C#.NET Project\Delegate_Example2\Delegate_Example2\obj\Debug\Delegate_Example2.exe
+E:\我的编程vc\C#.NET Project\Delegate_Example2\Delegate_Example2\obj\Debug\Delegate_Example2.pdb
