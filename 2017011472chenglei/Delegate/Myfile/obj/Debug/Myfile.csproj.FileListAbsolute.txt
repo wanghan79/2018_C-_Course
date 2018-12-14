@@ -1,0 +1,6 @@
+E:\chengl\C#\Myfile\Myfile\bin\Debug\Myfile.exe.config
+E:\chengl\C#\Myfile\Myfile\bin\Debug\Myfile.exe
+E:\chengl\C#\Myfile\Myfile\bin\Debug\Myfile.pdb
+E:\chengl\C#\Myfile\Myfile\obj\Debug\Myfile.csprojResolveAssemblyReference.cache
+E:\chengl\C#\Myfile\Myfile\obj\Debug\Myfile.exe
+E:\chengl\C#\Myfile\Myfile\obj\Debug\Myfile.pdb
