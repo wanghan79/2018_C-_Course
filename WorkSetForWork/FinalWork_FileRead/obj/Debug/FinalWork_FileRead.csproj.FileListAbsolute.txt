@@ -1,0 +1,9 @@
+D:\GIT\2018_C-_Course\WorkSetForWork\FinalWork_FileRead\bin\Debug\FinalWork_FileRead.exe.config
+D:\GIT\2018_C-_Course\WorkSetForWork\FinalWork_FileRead\obj\Debug\FinalWork_FileRead.csprojResolveAssemblyReference.cache
+D:\GIT\2018_C-_Course\WorkSetForWork\FinalWork_FileRead\obj\Debug\FinalWork_FileRead.FinalWork_FileRead.resources
+D:\GIT\2018_C-_Course\WorkSetForWork\FinalWork_FileRead\obj\Debug\FinalWork_FileRead.Properties.Resources.resources
+D:\GIT\2018_C-_Course\WorkSetForWork\FinalWork_FileRead\obj\Debug\FinalWork_FileRead.csproj.GenerateResource.Cache
+D:\GIT\2018_C-_Course\WorkSetForWork\FinalWork_FileRead\bin\Debug\FinalWork_FileRead.exe
+D:\GIT\2018_C-_Course\WorkSetForWork\FinalWork_FileRead\bin\Debug\FinalWork_FileRead.pdb
+D:\GIT\2018_C-_Course\WorkSetForWork\FinalWork_FileRead\obj\Debug\FinalWork_FileRead.exe
+D:\GIT\2018_C-_Course\WorkSetForWork\FinalWork_FileRead\obj\Debug\FinalWork_FileRead.pdb

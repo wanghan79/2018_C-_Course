@@ -16,3 +16,6 @@ G:\C#\WorkSetForWork\Personal_income_without_tax_calculator\obj\Debug\Personal_i
 F:\C#\WorkSetForWork\Personal_income_without_tax_calculator\bin\Debug\Personal_income_without_tax_calculator.exe.config
 F:\C#\WorkSetForWork\Personal_income_without_tax_calculator\obj\Debug\Personal_income_without_tax_calculator.exe
 F:\C#\WorkSetForWork\Personal_income_without_tax_calculator\obj\Debug\Personal_income_without_tax_calculator.pdb
+D:\GIT\2018_C-_Course\WorkSetForWork\Personal_income_without_tax_calculator\bin\Debug\Personal_income_without_tax_calculator.exe.config
+D:\GIT\2018_C-_Course\WorkSetForWork\Personal_income_without_tax_calculator\obj\Debug\Personal_income_without_tax_calculator.exe
+D:\GIT\2018_C-_Course\WorkSetForWork\Personal_income_without_tax_calculator\obj\Debug\Personal_income_without_tax_calculator.pdb
