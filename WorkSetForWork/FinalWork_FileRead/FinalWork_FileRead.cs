@@ -41,12 +41,12 @@ namespace FinalWork_FileRead
         {
             int i = 0;
             //在指定目录及子目录下查找文件,在listBox1中列出子目录及文件
-            DirectoryInfo Dir=new DirectoryInfo(dirPath);
+            DirectoryInfo Dir=new DirectoryInfo(dirPath+"\\");
             try
             {
                 foreach(DirectoryInfo d in Dir.GetDirectories())//查找子目录 
                 {
-                    FindFile(Dir + "\\" + d.ToString() + "\\");
+                    FindFile(Dir + d.ToString());
                     listbox_record.Items.Add(Dir + d.ToString() + ""); //listBox1中填加目录名
                 }
                 foreach(FileInfo f in Dir.GetFiles("*.---")) //查找文件
