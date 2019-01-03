@@ -1,0 +1,17 @@
+c:\users\administrator\documents\visual studio 2013\Projects\FinalFile\FinalFile\bin\Debug\FinalFile.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\FinalFile\FinalFile\bin\Debug\FinalFile.exe
+c:\users\administrator\documents\visual studio 2013\Projects\FinalFile\FinalFile\bin\Debug\FinalFile.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\FinalFile\FinalFile\obj\Debug\FinalFile.FinalFile.resources
+c:\users\administrator\documents\visual studio 2013\Projects\FinalFile\FinalFile\obj\Debug\FinalFile.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\FinalFile\FinalFile\obj\Debug\FinalFile.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\FinalFile\FinalFile\obj\Debug\FinalFile.exe
+c:\users\administrator\documents\visual studio 2013\Projects\FinalFile\FinalFile\obj\Debug\FinalFile.pdb
+C:\Users\SAMSUNG\Desktop\FinalFile\FinalFile\bin\Debug\FinalFile.exe.config
+C:\Users\SAMSUNG\Desktop\FinalFile\FinalFile\obj\Debug\FinalFile.exe
+C:\Users\SAMSUNG\Desktop\FinalFile\FinalFile\obj\Debug\FinalFile.pdb
+C:\Users\SAMSUNG\Desktop\FinalFile\FinalFile\bin\Debug\FinalFile.exe
+C:\Users\SAMSUNG\Desktop\FinalFile\FinalFile\bin\Debug\FinalFile.pdb
+C:\Users\SAMSUNG\Desktop\FinalFile\FinalFile\obj\Debug\FinalFile.FinalFile.resources
+C:\Users\SAMSUNG\Desktop\FinalFile\FinalFile\obj\Debug\FinalFile.Properties.Resources.resources
+C:\Users\SAMSUNG\Desktop\FinalFile\FinalFile\obj\Debug\FinalFile.csproj.GenerateResource.Cache
+C:\Users\SAMSUNG\Desktop\FinalFile\FinalFile\obj\Debug\FinalFile.csprojResolveAssemblyReference.cache
