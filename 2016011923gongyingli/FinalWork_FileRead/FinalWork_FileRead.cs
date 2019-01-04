@@ -26,7 +26,7 @@ namespace FinalWork_FileRead
         {
             pForm1 = this;
             InitializeComponent();
-            txt_folder.Text = "(default:G:\\打印)";
+            txt_folder.Text = "(default:C:\\)";
             //path = ConfigurationManager.AppSettings["path"];
             timer_check.Interval = Convert.ToInt32(ConfigurationManager.AppSettings["0"]);
             timer_check.Enabled = false;
@@ -93,7 +93,7 @@ namespace FinalWork_FileRead
             }
             catch(Exception eGetFiles)
             {
-                MessageBox.Show("eGetFiles"+eGetFiles.Message);
+                MessageBox.Show("eGetFiles   "+eGetFiles.Message);
             }
             
         }
@@ -107,13 +107,13 @@ namespace FinalWork_FileRead
             }
             catch(Exception eCheck)
             {
-                MessageBox.Show("eCheck"+eCheck.Data);
+                MessageBox.Show("eCheck   "+eCheck.Data);
             }
             timer_check.Enabled = true;
         }
         private void check_files()
         {
-            MessageBox.Show(num_files.ToString());
+            //MessageBox.Show(num_files.ToString());
             TreeNode root = treeView_folder.Nodes[1];
             DateTime currentTime=new DateTime(); 
             currentTime=System.DateTime.Now;
@@ -127,7 +127,7 @@ namespace FinalWork_FileRead
             
             root = treeView_folder.Nodes[1];
             record_files(root, ref r2, path,2);
-            MessageBox.Show("Done!");
+            //MessageBox.Show("Done!");
             
             for (int i = 0; i < r2.Length/3; i++)
             {
