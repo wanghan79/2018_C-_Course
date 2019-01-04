@@ -1,0 +1,18 @@
+c:\users\administrator\documents\visual studio 2013\Projects\FileRead\FileRead\bin\Debug\FileRead.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\FileRead\FileRead\obj\Debug\FileRead.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\FileRead\FileRead\obj\Debug\FileRead.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\FileRead\FileRead\obj\Debug\FileRead.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\FileRead\FileRead\obj\Debug\FileRead.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\FileRead\FileRead\bin\Debug\FileRead.exe
+c:\users\administrator\documents\visual studio 2013\Projects\FileRead\FileRead\bin\Debug\FileRead.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\FileRead\FileRead\obj\Debug\FileRead.exe
+c:\users\administrator\documents\visual studio 2013\Projects\FileRead\FileRead\obj\Debug\FileRead.pdb
+F:\FileRead\FileRead\bin\Debug\FileRead.exe.config
+F:\FileRead\FileRead\obj\Debug\FileRead.exe
+F:\FileRead\FileRead\obj\Debug\FileRead.pdb
+F:\FileRead\FileRead\bin\Debug\FileRead.exe
+F:\FileRead\FileRead\bin\Debug\FileRead.pdb
+F:\FileRead\FileRead\obj\Debug\FileRead.csprojResolveAssemblyReference.cache
+F:\FileRead\FileRead\obj\Debug\FileRead.Form1.resources
+F:\FileRead\FileRead\obj\Debug\FileRead.Properties.Resources.resources
+F:\FileRead\FileRead\obj\Debug\FileRead.csproj.GenerateResource.Cache
