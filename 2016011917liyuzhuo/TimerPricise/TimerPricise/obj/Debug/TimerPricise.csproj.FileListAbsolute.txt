@@ -1,0 +1,8 @@
+F:\C#\TimerPricise\TimerPricise\bin\Debug\TimerPricise.exe.config
+F:\C#\TimerPricise\TimerPricise\bin\Debug\TimerPricise.exe
+F:\C#\TimerPricise\TimerPricise\bin\Debug\TimerPricise.pdb
+F:\C#\TimerPricise\TimerPricise\obj\Debug\TimerPricise.csprojResolveAssemblyReference.cache
+F:\C#\TimerPricise\TimerPricise\obj\Debug\TimerPricise.Properties.Resources.resources
+F:\C#\TimerPricise\TimerPricise\obj\Debug\TimerPricise.csproj.GenerateResource.Cache
+F:\C#\TimerPricise\TimerPricise\obj\Debug\TimerPricise.exe
+F:\C#\TimerPricise\TimerPricise\obj\Debug\TimerPricise.pdb
