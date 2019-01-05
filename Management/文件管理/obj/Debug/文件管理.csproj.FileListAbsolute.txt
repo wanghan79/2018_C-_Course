@@ -1,0 +1,12 @@
+E:\Currybryant\C#\资源管理器\文件管理\文件管理\bin\Debug\文件管理.exe.config
+E:\Currybryant\C#\资源管理器\文件管理\文件管理\bin\Debug\文件管理.exe
+E:\Currybryant\C#\资源管理器\文件管理\文件管理\bin\Debug\文件管理.pdb
+E:\Currybryant\C#\资源管理器\文件管理\文件管理\obj\Debug\文件管理.csprojResolveAssemblyReference.cache
+E:\Currybryant\C#\资源管理器\文件管理\文件管理\obj\Debug\文件管理.文件管理.resources
+E:\Currybryant\C#\资源管理器\文件管理\文件管理\obj\Debug\文件管理.Properties.Resources.resources
+E:\Currybryant\C#\资源管理器\文件管理\文件管理\obj\Debug\文件管理.csproj.GenerateResource.Cache
+E:\Currybryant\C#\资源管理器\文件管理\文件管理\obj\Debug\文件管理.exe
+E:\Currybryant\C#\资源管理器\文件管理\文件管理\obj\Debug\文件管理.pdb
+E:\Currybryant\C#\资源管理器\Management\文件管理\bin\Debug\文件管理.exe.config
+E:\Currybryant\C#\资源管理器\Management\文件管理\obj\Debug\文件管理.exe
+E:\Currybryant\C#\资源管理器\Management\文件管理\obj\Debug\文件管理.pdb
