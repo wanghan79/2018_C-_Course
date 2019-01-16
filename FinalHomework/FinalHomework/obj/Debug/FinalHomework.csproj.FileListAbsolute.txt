@@ -1,0 +1,10 @@
+D:\visual studio\C#\FinalHomework\FinalHomework\obj\Debug\FinalHomework.csprojAssemblyReference.cache
+D:\visual studio\C#\FinalHomework\FinalHomework\obj\Debug\FinalHomework.Properties.Resources.resources
+D:\visual studio\C#\FinalHomework\FinalHomework\obj\Debug\FinalHomework.csproj.GenerateResource.cache
+D:\visual studio\C#\FinalHomework\FinalHomework\obj\Debug\FinalHomework.csproj.CoreCompileInputs.cache
+D:\visual studio\C#\FinalHomework\FinalHomework\bin\Debug\FinalHomework.exe.config
+D:\visual studio\C#\FinalHomework\FinalHomework\bin\Debug\FinalHomework.exe
+D:\visual studio\C#\FinalHomework\FinalHomework\bin\Debug\FinalHomework.pdb
+D:\visual studio\C#\FinalHomework\FinalHomework\obj\Debug\FinalHomework.exe
+D:\visual studio\C#\FinalHomework\FinalHomework\obj\Debug\FinalHomework.pdb
+D:\visual studio\C#\FinalHomework\FinalHomework\obj\Debug\FinalHomework.SecureTree.resources
