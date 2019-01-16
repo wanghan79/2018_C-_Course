@@ -1,0 +1,9 @@
+D:\C#Program\BrowseFolder\BrowseFolder\bin\Debug\BrowseFolder.exe.config
+D:\C#Program\BrowseFolder\BrowseFolder\bin\Debug\BrowseFolder.exe
+D:\C#Program\BrowseFolder\BrowseFolder\bin\Debug\BrowseFolder.pdb
+D:\C#Program\BrowseFolder\BrowseFolder\obj\Debug\BrowseFolder.csprojResolveAssemblyReference.cache
+D:\C#Program\BrowseFolder\BrowseFolder\obj\Debug\BrowseFolder.Properties.Resources.resources
+D:\C#Program\BrowseFolder\BrowseFolder\obj\Debug\BrowseFolder.csproj.GenerateResource.Cache
+D:\C#Program\BrowseFolder\BrowseFolder\obj\Debug\BrowseFolder.exe
+D:\C#Program\BrowseFolder\BrowseFolder\obj\Debug\BrowseFolder.pdb
+D:\C#Program\BrowseFolder\BrowseFolder\obj\Debug\BrowseFolder.BrowseFolder.resources
