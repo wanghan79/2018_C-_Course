@@ -1,0 +1,9 @@
+D:\作业\fileReader\fileReader\bin\Debug\fileReader.exe.config
+D:\作业\fileReader\fileReader\bin\Debug\fileReader.exe
+D:\作业\fileReader\fileReader\bin\Debug\fileReader.pdb
+D:\作业\fileReader\fileReader\obj\Debug\fileReader.csprojResolveAssemblyReference.cache
+D:\作业\fileReader\fileReader\obj\Debug\fileReader.fileReader.resources
+D:\作业\fileReader\fileReader\obj\Debug\fileReader.Properties.Resources.resources
+D:\作业\fileReader\fileReader\obj\Debug\fileReader.csproj.GenerateResource.Cache
+D:\作业\fileReader\fileReader\obj\Debug\fileReader.exe
+D:\作业\fileReader\fileReader\obj\Debug\fileReader.pdb
