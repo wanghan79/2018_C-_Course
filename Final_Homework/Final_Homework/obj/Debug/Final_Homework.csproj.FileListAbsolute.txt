@@ -1,0 +1,20 @@
+E:\我的编程vc\C#.NET Project\Final_Homework\Final_Homework\bin\Debug\Final_Homework.exe.config
+E:\我的编程vc\C#.NET Project\Final_Homework\Final_Homework\bin\Debug\Final_Homework.exe
+E:\我的编程vc\C#.NET Project\Final_Homework\Final_Homework\bin\Debug\Final_Homework.pdb
+E:\我的编程vc\C#.NET Project\Final_Homework\Final_Homework\obj\Debug\Final_Homework.csprojAssemblyReference.cache
+E:\我的编程vc\C#.NET Project\Final_Homework\Final_Homework\obj\Debug\Final_Homework.Files_Manager.resources
+E:\我的编程vc\C#.NET Project\Final_Homework\Final_Homework\obj\Debug\Final_Homework.Properties.Resources.resources
+E:\我的编程vc\C#.NET Project\Final_Homework\Final_Homework\obj\Debug\Final_Homework.csproj.GenerateResource.cache
+E:\我的编程vc\C#.NET Project\Final_Homework\Final_Homework\obj\Debug\Final_Homework.csproj.CoreCompileInputs.cache
+E:\我的编程vc\C#.NET Project\Final_Homework\Final_Homework\obj\Debug\Final_Homework.exe
+E:\我的编程vc\C#.NET Project\Final_Homework\Final_Homework\obj\Debug\Final_Homework.pdb
+C:\Users\2059162946\Desktop\Final_Homework\Final_Homework\bin\Debug\Final_Homework.exe.config
+C:\Users\2059162946\Desktop\Final_Homework\Final_Homework\bin\Debug\Final_Homework.exe
+C:\Users\2059162946\Desktop\Final_Homework\Final_Homework\bin\Debug\Final_Homework.pdb
+C:\Users\2059162946\Desktop\Final_Homework\Final_Homework\obj\Debug\Final_Homework.csprojAssemblyReference.cache
+C:\Users\2059162946\Desktop\Final_Homework\Final_Homework\obj\Debug\Final_Homework.Properties.Resources.resources
+C:\Users\2059162946\Desktop\Final_Homework\Final_Homework\obj\Debug\Final_Homework.csproj.GenerateResource.cache
+C:\Users\2059162946\Desktop\Final_Homework\Final_Homework\obj\Debug\Final_Homework.csproj.CoreCompileInputs.cache
+C:\Users\2059162946\Desktop\Final_Homework\Final_Homework\obj\Debug\Final_Homework.exe
+C:\Users\2059162946\Desktop\Final_Homework\Final_Homework\obj\Debug\Final_Homework.pdb
+C:\Users\2059162946\Desktop\Final_Homework\Final_Homework\obj\Debug\Final_Homework.ShowFile.resources
