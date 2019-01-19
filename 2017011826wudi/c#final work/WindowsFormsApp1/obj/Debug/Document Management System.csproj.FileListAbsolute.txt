@@ -1,0 +1,20 @@
+F:\c#1\wud505\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\c#1\wud505\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\c#1\wud505\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\c#1\wud505\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Document Management System.csprojAssemblyReference.cache
+F:\c#1\wud505\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DocumentManagementSystem.DocumentManagement.resources
+F:\c#1\wud505\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\c#1\wud505\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Document Management System.csproj.GenerateResource.cache
+F:\c#1\wud505\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Document Management System.csproj.CoreCompileInputs.cache
+F:\c#1\wud505\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\c#1\wud505\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\c#1\wud505\c#final work\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\c#1\wud505\c#final work\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\c#1\wud505\c#final work\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\c#1\wud505\c#final work\WindowsFormsApp1\obj\Debug\Document Management System.csprojAssemblyReference.cache
+F:\c#1\wud505\c#final work\WindowsFormsApp1\obj\Debug\DocumentManagementSystem.DocumentManagement.resources
+F:\c#1\wud505\c#final work\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\c#1\wud505\c#final work\WindowsFormsApp1\obj\Debug\Document Management System.csproj.GenerateResource.cache
+F:\c#1\wud505\c#final work\WindowsFormsApp1\obj\Debug\Document Management System.csproj.CoreCompileInputs.cache
+F:\c#1\wud505\c#final work\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\c#1\wud505\c#final work\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
