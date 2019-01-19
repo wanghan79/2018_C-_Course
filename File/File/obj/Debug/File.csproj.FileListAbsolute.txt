@@ -1,0 +1,28 @@
+c:\users\administrator\documents\visual studio 2013\Projects\File\File\bin\Debug\File.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\File\File\obj\Debug\File.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\File\File\obj\Debug\File.File.resources
+c:\users\administrator\documents\visual studio 2013\Projects\File\File\obj\Debug\File.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\File\File\obj\Debug\File.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\File\File\bin\Debug\File.exe
+c:\users\administrator\documents\visual studio 2013\Projects\File\File\bin\Debug\File.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\File\File\obj\Debug\File.exe
+c:\users\administrator\documents\visual studio 2013\Projects\File\File\obj\Debug\File.pdb
+C:\Users\Administrator\Desktop\File\File\bin\Debug\File.exe.config
+C:\Users\Administrator\Desktop\File\File\obj\Debug\File.exe
+C:\Users\Administrator\Desktop\File\File\obj\Debug\File.pdb
+C:\Users\Administrator\Desktop\File\File\obj\Debug\File.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\File\File\obj\Debug\File.File.resources
+C:\Users\Administrator\Desktop\File\File\obj\Debug\File.Properties.Resources.resources
+C:\Users\Administrator\Desktop\File\File\obj\Debug\File.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\File\File\bin\Debug\File.exe
+C:\Users\Administrator\Desktop\File\File\bin\Debug\File.pdb
+C:\Users\陈鹏宇\Desktop\File\File\obj\Debug\File.csprojAssemblyReference.cache
+C:\Users\陈鹏宇\Desktop\File\File\obj\Debug\File.File.resources
+C:\Users\陈鹏宇\Desktop\File\File\obj\Debug\File.Properties.Resources.resources
+C:\Users\陈鹏宇\Desktop\File\File\obj\Debug\File.csproj.GenerateResource.cache
+C:\Users\陈鹏宇\Desktop\File\File\obj\Debug\File.csproj.CoreCompileInputs.cache
+C:\Users\陈鹏宇\Desktop\File\File\obj\Debug\File.exe
+C:\Users\陈鹏宇\Desktop\File\File\obj\Debug\File.pdb
+C:\Users\陈鹏宇\Desktop\File\File\bin\Debug\File.exe.config
+C:\Users\陈鹏宇\Desktop\File\File\bin\Debug\File.exe
+C:\Users\陈鹏宇\Desktop\File\File\bin\Debug\File.pdb
