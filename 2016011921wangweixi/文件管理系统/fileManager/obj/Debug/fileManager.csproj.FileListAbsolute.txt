@@ -1,0 +1,19 @@
+c:\users\administrator\documents\visual studio 2013\Projects\fileManager\fileManager\bin\Debug\fileManager.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\fileManager\fileManager\obj\Debug\fileManager.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\fileManager\fileManager\obj\Debug\fileManager.fileManager.resources
+c:\users\administrator\documents\visual studio 2013\Projects\fileManager\fileManager\obj\Debug\fileManager.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\fileManager\fileManager\obj\Debug\fileManager.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\fileManager\fileManager\bin\Debug\fileManager.exe
+c:\users\administrator\documents\visual studio 2013\Projects\fileManager\fileManager\bin\Debug\fileManager.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\fileManager\fileManager\obj\Debug\fileManager.exe
+c:\users\administrator\documents\visual studio 2013\Projects\fileManager\fileManager\obj\Debug\fileManager.pdb
+C:\Users\msi-\Desktop\fileManager\fileManager\bin\Debug\fileManager.exe.config
+C:\Users\msi-\Desktop\fileManager\fileManager\bin\Debug\fileManager.exe
+C:\Users\msi-\Desktop\fileManager\fileManager\bin\Debug\fileManager.pdb
+C:\Users\msi-\Desktop\fileManager\fileManager\obj\Debug\fileManager.csprojAssemblyReference.cache
+C:\Users\msi-\Desktop\fileManager\fileManager\obj\Debug\fileManager.fileManager.resources
+C:\Users\msi-\Desktop\fileManager\fileManager\obj\Debug\fileManager.Properties.Resources.resources
+C:\Users\msi-\Desktop\fileManager\fileManager\obj\Debug\fileManager.csproj.GenerateResource.cache
+C:\Users\msi-\Desktop\fileManager\fileManager\obj\Debug\fileManager.csproj.CoreCompileInputs.cache
+C:\Users\msi-\Desktop\fileManager\fileManager\obj\Debug\fileManager.exe
+C:\Users\msi-\Desktop\fileManager\fileManager\obj\Debug\fileManager.pdb
