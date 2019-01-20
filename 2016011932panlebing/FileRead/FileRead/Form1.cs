@@ -13,8 +13,9 @@ namespace FileRead
 {
     public partial class Form1 : Form
     {
-        TreeNode rootNode = new TreeNode();
-        
+        //TreeNode rootNode = new TreeNode();
+        int temp = 60;
+        int time_i = 0;
         public Form1()
         {
             InitializeComponent();
@@ -23,21 +24,20 @@ namespace FileRead
 
         private void butSubmit_MouseClick(object sender, MouseEventArgs e)
         {
-            
+            TreeNode rootNode = new TreeNode();
             string fileLoc = txtLoc.Text;
-            //TreeNode rootNode = new TreeNode();
             rootNode.Text = fileLoc;
             treeView.Nodes.Add(rootNode);
             director(fileLoc,rootNode);
             WatcherStrat(fileLoc, "");
-            listBox.Items.Add("修改类型         时间            文件名" );
+            listBox.Items.Add("修改类型         时间               文件名            用户");
             this.time.Enabled = true;
         }
         public void director(string dirs,TreeNode upNode)
         {
             
             //绑定到指定的文件夹目录
-            DirectoryInfo dir = new DirectoryInfo(dirs);
+            DirectoryInfo dir = new DirectoryInfo(@dirs);
             //检索表示当前目录的文件和子目录
             FileSystemInfo[] fsinfos = dir.GetFileSystemInfos();
             //遍历检索的文件和子目录
@@ -96,7 +96,7 @@ namespace FileRead
        {
            FileInfo f = new FileInfo(e.FullPath);
            string time = f.CreationTime.ToString();
-           listBox.Items.Add("  新建    " + time + "    " + e.Name);
+           listBox.Items.Add("  新建    " + time + "    " + e.Name + "      user");
            this.time.Enabled = true;
            
        }
@@ -104,27 +104,42 @@ namespace FileRead
        {
            FileInfo f = new FileInfo(e.FullPath);
            string time = f.LastWriteTime.ToString();
-           listBox.Items.Add("  修改    " + time + "    "  +e.Name);
+           listBox.Items.Add("  修改    " + time + "    " + e.Name + "      user");
        }
         
        private void OnDeleted(object source, FileSystemEventArgs e)
        {
            string time = System.DateTime.Now.ToString();
-           listBox.Items.Add("  删除    " + time + "    " + e.Name);
+           listBox.Items.Add("  删除    " + time + "    " + e.Name + "      user");
        }
         
        private void OnRenamed(object source, RenamedEventArgs e)
        {
            FileInfo f = new FileInfo(e.FullPath);
            string time = f.LastAccessTime.ToString();
-           listBox.Items.Add("  重命名  " + time + "    " + e.Name);
+           listBox.Items.Add("  重命名  " + time + "    " + e.Name + "      user");
        }
    
         private void time_Tick(object sender, EventArgs e)
         {
-            string fileLoc = txtLoc.Text;
-            //WatcherStrat(fileLoc, "");
+            time_i++;
+            if (time_i == temp)
+            {
+                time_i = 0;
+                treeView.Nodes.Clear();
+                TreeNode rootNode = new TreeNode();
+                string fileLoc = txtLoc.Text;
+                rootNode.Text = fileLoc;
+                treeView.Nodes.Add(rootNode);
+                director(fileLoc, rootNode);
+            }
            
+        }
+
+        private void btnTime_Click(object sender, EventArgs e)
+        {
+            temp = Convert.ToInt32(txtTime.Text);
+            time_i = 0;
         }
     }
 }
